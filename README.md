@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development 
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me : dtdaniel.site
+- 📫 How to reach me : [dtdaniel.site](https://www.dtdaniel.site/)
 - ⚡ Fun fact: I am actually very shy but not when coding
 
 <!---
